@@ -1,0 +1,8 @@
+/*p{font-size:10pt;}
+#intro{font-style:italic}
+.term{font-style:italic; text-decoration:underline}
+*/
+p {font-size:10pt}
+.red1{color:red; font-style:italic;}
+strong.red1{font-size:12pt}
+#next{color:blue;text-align:center;}
